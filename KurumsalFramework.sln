@@ -15,9 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurumsalFramework.Northwind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurumsalFramework.Northwind.Entities", "KurumsalFramework.Northwind.Entities\KurumsalFramework.Northwind.Entities.csproj", "{8F67D38E-DDD7-4973-ABB3-F188E685F0FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurumsalFramework.NorthwInd.MvcWebUI", "KurumsalFramework.NorthwInd.MvcWebUI\KurumsalFramework.NorthwInd.MvcWebUI.csproj", "{8AA74D22-3E1C-48BF-8291-57FB56CB50C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurumsalFramework.Northwind.MvcWebUI", "KurumsalFramework.NorthwInd.MvcWebUI\KurumsalFramework.Northwind.MvcWebUI.csproj", "{8AA74D22-3E1C-48BF-8291-57FB56CB50C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurumsalFramework.NorthwInd.MvcWebUI.Tests", "KurumsalFramework.NorthwInd.MvcWebUI.Tests\KurumsalFramework.NorthwInd.MvcWebUI.Tests.csproj", "{04A2767B-B1A0-4718-AF89-CEF0F2F3D445}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurumsalFramework.Northwind.MvcWebUI.Tests", "KurumsalFramework.NorthwInd.MvcWebUI.Tests\KurumsalFramework.Northwind.MvcWebUI.Tests.csproj", "{04A2767B-B1A0-4718-AF89-CEF0F2F3D445}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "KurumsalFramework.Northwind.WcfService", "KurumsalFramework.Northwind.WcfService\", "{124C0B1F-69DC-4F47-B221-3EFF889CFB2A}"
 	ProjectSection(WebsiteProperties) = preProject

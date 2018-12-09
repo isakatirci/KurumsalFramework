@@ -99,9 +99,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\KurumsalFramework.NorthwInd.MvcWebUI\KurumsalFramework.NorthwInd.MvcWebUI.csproj">
+    <ProjectReference Include="..\KurumsalFramework.NorthwInd.MvcWebUI\KurumsalFramework.Northwind.MvcWebUI.csproj">
       <Project>{8AA74D22-3E1C-48BF-8291-57FB56CB50C1}</Project>
-      <Name>KurumsalFramework.NorthwInd.MvcWebUI</Name>
+      <Name>KurumsalFramework.Northwind.MvcWebUI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
