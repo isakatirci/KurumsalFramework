@@ -9,8 +9,8 @@
     <ProjectGuid>{04A2767B-B1A0-4718-AF89-CEF0F2F3D445}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KurumsalFramework.NorthwInd.MvcWebUI.Tests</RootNamespace>
-    <AssemblyName>KurumsalFramework.NorthwInd.MvcWebUI.Tests</AssemblyName>
+    <RootNamespace>KurumsalFramework.Northwind.MvcWebUI.Tests</RootNamespace>
+    <AssemblyName>KurumsalFramework.Northwind.MvcWebUI.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
